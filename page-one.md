@@ -1,6 +1,6 @@
-# Example
+# Page One
 
-This is an example workshop.
+This is a first example page workshop.
 
 ### Subheading
 
