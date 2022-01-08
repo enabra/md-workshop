@@ -15,7 +15,6 @@ Aside from the [standard additions made, by MyST, to the CommonMark syntax](http
   - fieldlist
   - html_admonition
   - html_image
-  - linkify
   - replacements
   - smartquotes
   - substitution
